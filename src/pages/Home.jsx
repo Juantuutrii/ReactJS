@@ -27,7 +27,7 @@ const Home = () => {
 		<section> 
 			<div className="container mx-auto py-5">
 				<div className="mb-4 text-center">
-					<p className="display-6 mb-1">What we do...</p>
+					<p className="display-6 mb-1">This is my changes...</p>
 					<p className="text-muted">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
 				</div>
 				<div className="row gy-5 d-flex align-items-center justify-content-evenly mt-0">
