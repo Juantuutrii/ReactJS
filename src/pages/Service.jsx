@@ -8,7 +8,7 @@ const Scards = (props) => {
 			<div className="col-md-4 col-lg-4 mb-3 text-center">
 				<div className="box_border col-lg-9 p-3 pt-4 m-auto rounded">
 					<img src={props.scardimage} className="img-fluid mb-2" alt="cards" width="20%" />
-					<p className="my-2">{props.scardtitle}</p>
+					<p className="my-2 test">{props.scardtitle}</p>
 					<p className="text-muted text-left text-xl-center text-lg-center">{props.scarddesc}</p>
 				</div>
 			</div>
