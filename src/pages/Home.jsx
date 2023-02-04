@@ -28,7 +28,7 @@ const Home = () => {
 			<div className="container mx-auto py-5">
 				<div className="mb-4 text-center">
 					<p className="display-6 mb-1">This is my changes...</p>
-					<p className="text-muted">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+					<p className="text-muted">This is lorem 2 Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
 				</div>
 				<div className="row gy-5 d-flex align-items-center justify-content-evenly mt-0">
 					<div className="col-md-4 col-lg-3 text-center">
